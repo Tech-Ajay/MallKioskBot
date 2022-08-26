@@ -1,0 +1,20 @@
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\bin\Debug\Mall Kiosk Management.exe.config
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\bin\Debug\Mall Kiosk Management.exe
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\bin\Debug\Mall Kiosk Management.pdb
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\bin\Debug\Mall Kiosk Management.xml
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall Kiosk Management.vbprojAssemblyReference.cache
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.Form1.resources
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.Resources.resources
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall Kiosk Management.vbproj.GenerateResource.cache
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall Kiosk Management.vbproj.CoreCompileInputs.cache
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall Kiosk Management.exe
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall Kiosk Management.xml
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall Kiosk Management.pdb
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.FormDirection.resources
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.LoginForm.resources
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\bin\Debug\Mall.mdf
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\bin\Debug\Mall_log.ldf
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.FormSignUp.resources
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.FoemStock1.resources
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.Parking.resources
+C:\Users\ajayn\source\repos\Mall Kiosk Management\Mall Kiosk Management\obj\Debug\Mall_Kiosk_Management.Paymentt.resources
